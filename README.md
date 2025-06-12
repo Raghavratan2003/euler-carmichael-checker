@@ -33,9 +33,6 @@ Euler's Theorem holds for n = 561
 
 ---
 
-## 📁 Files
-
-- `euler_carmichael.py` – main Python script with all functionality
 
 🧑‍💻 Author
 Raghav Ratan Yadav
