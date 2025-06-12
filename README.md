@@ -37,5 +37,5 @@ Euler's Theorem holds for n = 561
 🧑‍💻 Author
 Raghav Ratan Yadav
 📧 Email: rghvrtnydv2003@gmail.com
-🌐 GitHub | LinkedIn
+🌐 LinkedIn: https://www.linkedin.com/in/raghav-ratan-yadav-6a316b250/
 🎓 NIT Rourkela
